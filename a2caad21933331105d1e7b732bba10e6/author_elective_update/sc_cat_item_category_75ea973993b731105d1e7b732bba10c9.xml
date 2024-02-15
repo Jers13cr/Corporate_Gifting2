@@ -41,7 +41,7 @@
         <update_guid_history>71ea97396eb73110f3dfd5e6f70c64cc:1976167370</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Corporate Policies/Benefits.Raise E-Wallet Request for you Mentee">32bb9b7993b731105d1e7b732bba1015</sys_audit_delete>
+        <sys_audit_delete display_value="">32bb9b7993b731105d1e7b732bba1015</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-18 20:41:22</sys_created_on>

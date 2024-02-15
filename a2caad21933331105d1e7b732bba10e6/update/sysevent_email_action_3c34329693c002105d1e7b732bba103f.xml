@@ -38,7 +38,16 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>The request ${number} has been assigned to ${assignment_group.name}</p>]]></message_html>
+        <message_html><![CDATA[<p><img src="/sys_attachment.do?sys_id=e316faf6935c42106096b5edfaba1018" alt="" width="121" height="121" data-library="false" /></p>
+<p>${number} has been assigned to your group.</p>
+<p>&nbsp;</p>
+<p><strong>E-Wallet Req Number: </strong>${number}</p>
+<p><strong>Request Status: </strong>${state}</p>
+<p><strong>Requested By (Manager):</strong> ${requested_by}</p>
+<p><strong>Requested for (Employee): </strong>${requested_for}</p>
+<p><strong>Assignment group: </strong>${assignment_group}</p>
+<p><strong>Assigned to: </strong>${assigned_to}</p>
+<p>&nbsp;</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Request assigned to HR group</name>
@@ -52,7 +61,7 @@
         <send_self>true</send_self>
         <sms_alternate/>
         <style/>
-        <subject>E-Wallet request ${number}  has been assigned to  ${assignment_group.name}</subject>
+        <subject>${number} has been assigned to your group</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -60,7 +69,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3c34329693c002105d1e7b732bba103f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Request assigned to HR group</sys_name>
         <sys_overrides/>
         <sys_package display_value="Corporate Gifting" source="x_1083671_corpgift">a2caad21933331105d1e7b732bba10e6</sys_package>
@@ -68,7 +77,7 @@
         <sys_scope display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</sys_scope>
         <sys_update_name>sysevent_email_action_3c34329693c002105d1e7b732bba103f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-01 17:28:41</sys_updated_on>
+        <sys_updated_on>2024-02-15 17:23:37</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

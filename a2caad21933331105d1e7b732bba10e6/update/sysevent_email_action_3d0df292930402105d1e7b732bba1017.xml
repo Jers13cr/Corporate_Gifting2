@@ -7,7 +7,7 @@
         <affected_field_on_event/>
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
         <collection>x_1083671_corpgift_e_wallet_request</collection>
-        <condition table="x_1083671_corpgift_e_wallet_request">state=4^EQ<item display_value="Completed" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="4"/>
+        <condition table="x_1083671_corpgift_e_wallet_request">stateCHANGESTO4^EQ<item display_value="Completed" endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="4"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>text/html</content_type>
@@ -38,11 +38,20 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Hello {requested_for.name},<br /><br />Your E-Wallet request ${number} has been completed.<br />${mail_script:award_appreciation}<br />Your e-wallet amount has been increased with ${e_wallet_amount}.<br /><br />Best regards,</p>
-<p>&nbsp;</p>]]></message_html>
+        <message_html><![CDATA[<p><img src="/sys_attachment.do?sys_id=e316faf6935c42106096b5edfaba1018" alt="" width="121" height="121" data-library="false" /></p>
+<p>${number} has been assigned completed.</p>
+<p>* Your Awards/Appreciation and E-Wallet Amounts have been added.</p>
+<p>&nbsp;</p>
+<p><strong>${request_for.last.name},</strong></p>
+<p>&nbsp;</p>
+<p><strong>E-Wallet Req Number: </strong>${number}</p>
+<p><strong>Requested for (Employee): </strong>${requested_for}</p>
+<p><strong>Request Status: </strong>${state}</p>
+<p><strong>Award/Appreciation: </strong>${award_appreciation}</p>
+<p><strong>E-Wallet amount to be added:</strong> ${e_wallet_amount}</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name> Request completed email to requested fo</name>
+        <name>Awards/Appreciation Email</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
@@ -61,15 +70,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3d0df292930402105d1e7b732bba1017</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name> Request completed email to requested fo</sys_name>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Awards/Appreciation Email</sys_name>
         <sys_overrides/>
         <sys_package display_value="Corporate Gifting" source="x_1083671_corpgift">a2caad21933331105d1e7b732bba10e6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</sys_scope>
         <sys_update_name>sysevent_email_action_3d0df292930402105d1e7b732bba1017</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-01 21:40:24</sys_updated_on>
+        <sys_updated_on>2024-02-15 17:45:12</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

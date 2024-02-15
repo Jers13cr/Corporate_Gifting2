@@ -171,7 +171,7 @@
         <update_guid_history>b6bb9b79f5b731100e1a3aeb446a3b58:-365233217,35ea9739ceb7311034e044dce516e6ce:-171562150</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Raise E-Wallet Request for you Mentee">72bb9b7993b731105d1e7b732bba1074</sys_audit_delete>
+        <sys_audit_delete display_value="">72bb9b7993b731105d1e7b732bba1074</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-18 20:41:22</sys_created_on>
