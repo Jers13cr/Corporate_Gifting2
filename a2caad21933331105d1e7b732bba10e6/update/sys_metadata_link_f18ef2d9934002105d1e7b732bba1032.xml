@@ -21,12 +21,12 @@
         <e_wallet_balance_validity/>
         <e_wallet_budget/>
         <edu_status>faculty</edu_status>
-        <email>Mira.Blossom@test.com</email>
+        <email>eric.cartman@test.com</email>
         <employee_number/>
         <enable_multifactor_authn>false</enable_multifactor_authn>
         <failed_attempts/>
-        <federated_id>LizvfmG9oh1G4EnL2Pq8xc9u1Gokl4Gfn53BOUaEaAY=</federated_id>
-        <first_name>Mira</first_name>
+        <federated_id>nPzokjjoIMj6Wz1AA1zxsNP8LUYG7EKXheaI9sAloFM=</federated_id>
+        <first_name>Eric</first_name>
         <gender/>
         <hashed_user_id>fb40d42166750d700ce906d3b03556654334cec69d01c51d57795a12084d1bf8</hashed_user_id>
         <home_phone/>
@@ -35,15 +35,15 @@
         <last_login/>
         <last_login_device/>
         <last_login_time/>
-        <last_name>Blossom</last_name>
+        <last_name>Cartman</last_name>
         <last_password/>
         <ldap_server/>
         <location/>
         <locked_out>false</locked_out>
-        <manager display_value="Dereck Collins">e4e58671933331105d1e7b732bba102e</manager>
+        <manager display_value="Don Trump">e4e58671933331105d1e7b732bba102e</manager>
         <middle_name/>
-        <mobile_phone>72248905</mobile_phone>
-        <name>Mira Blossom</name>
+        <mobile_phone>21111</mobile_phone>
+        <name>Eric Cartman</name>
         <notification>2</notification>
         <number>EMP0001023</number>
         <password_needs_reset>false</password_needs_reset>
@@ -51,7 +51,7 @@
         <photo/>
         <position_level>senior_associate</position_level>
         <preferred_language/>
-        <project_account>abz_consultanty</project_account>
+        <project_account>yuc_motors</project_account>
         <roles/>
         <schedule/>
         <source/>
@@ -63,13 +63,13 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>37105e7d933331105d1e7b732bba1033</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-18 15:24:40</sys_updated_on>
+        <sys_updated_on>2024-02-15 04:28:14</sys_updated_on>
         <time_format/>
         <time_zone/>
         <title/>
-        <user_name>Mira.Blossom</user_name>
+        <user_name>CR0111</user_name>
         <user_password/>
         <vip>false</vip>
         <web_service_access_only>false</web_service_access_only>
@@ -81,14 +81,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 15:32:32</sys_created_on>
         <sys_id>f18ef2d9934002105d1e7b732bba1032</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Mira Blossom</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Eric Cartman</sys_name>
         <sys_package display_value="Corporate Gifting" source="x_1083671_corpgift">a2caad21933331105d1e7b732bba10e6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</sys_scope>
         <sys_update_name>sys_metadata_link_f18ef2d9934002105d1e7b732bba1032</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 15:32:32</sys_updated_on>
+        <sys_updated_on>2024-02-16 22:11:51</sys_updated_on>
         <tablename>x_1083671_corpgift_employee</tablename>
     </sys_metadata_link>
 </record_update>

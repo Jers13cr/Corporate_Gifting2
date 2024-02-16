@@ -21,12 +21,12 @@
         <e_wallet_balance_validity/>
         <e_wallet_budget/>
         <edu_status>faculty</edu_status>
-        <email>Katarina.Rostova@test.com</email>
+        <email>ying.yang@test.com</email>
         <employee_number/>
         <enable_multifactor_authn>false</enable_multifactor_authn>
         <failed_attempts/>
-        <federated_id>q0xMf7TDakFlmgJ0Yw7Tsy3rRGK8vLHbrae7dxosKTA=</federated_id>
-        <first_name>Katarina</first_name>
+        <federated_id>7nY04+aEBtmfs1m5lXy22HaCCQuMOPBqgQMmOtgKz3g=</federated_id>
+        <first_name>Ying</first_name>
         <gender/>
         <hashed_user_id>e4649addacf652336b0627346daf576538e4dde80c01cf3db8b6edd5420dfd1d</hashed_user_id>
         <home_phone/>
@@ -35,15 +35,15 @@
         <last_login/>
         <last_login_device/>
         <last_login_time/>
-        <last_name>Rostova</last_name>
+        <last_name>Yang</last_name>
         <last_password/>
         <ldap_server/>
         <location/>
         <locked_out>false</locked_out>
-        <manager display_value="Ada Wong">a5e6c2b5933331105d1e7b732bba1091</manager>
+        <manager display_value="Bobby Test">a5e6c2b5933331105d1e7b732bba1091</manager>
         <middle_name/>
         <mobile_phone>71100348</mobile_phone>
-        <name>Katarina Rostova</name>
+        <name>Ying Yang</name>
         <notification>2</notification>
         <number>EMP0001021</number>
         <password_needs_reset>false</password_needs_reset>
@@ -63,13 +63,13 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>37ee0abd933331105d1e7b732bba10ae</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-18 15:24:31</sys_updated_on>
+        <sys_updated_on>2024-02-15 04:25:41</sys_updated_on>
         <time_format/>
         <time_zone/>
         <title/>
-        <user_name>Katarina.Rostova</user_name>
+        <user_name>CR0109</user_name>
         <user_password/>
         <vip>false</vip>
         <web_service_access_only>false</web_service_access_only>
@@ -81,14 +81,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 15:32:32</sys_created_on>
         <sys_id>798ef2d9934002105d1e7b732bba1034</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Katarina Rostova</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Ying Yang</sys_name>
         <sys_package display_value="Corporate Gifting" source="x_1083671_corpgift">a2caad21933331105d1e7b732bba10e6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</sys_scope>
         <sys_update_name>sys_metadata_link_798ef2d9934002105d1e7b732bba1034</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 15:32:32</sys_updated_on>
+        <sys_updated_on>2024-02-16 22:11:51</sys_updated_on>
         <tablename>x_1083671_corpgift_employee</tablename>
     </sys_metadata_link>
 </record_update>

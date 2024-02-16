@@ -21,12 +21,12 @@
         <e_wallet_balance_validity/>
         <e_wallet_budget/>
         <edu_status>faculty</edu_status>
-        <email>John.Davis@test.com</email>
+        <email>marty.mcfly@test.com</email>
         <employee_number/>
         <enable_multifactor_authn>false</enable_multifactor_authn>
         <failed_attempts/>
-        <federated_id>jBBUK+W580nXfpXvPw1Lgpik9u469XxnoLyXKHf33I8=</federated_id>
-        <first_name>John</first_name>
+        <federated_id>AWW/76j9SdlNUJNgfSEm5rwSzuAdgapUSiLf733BKfA=</federated_id>
+        <first_name>Marty</first_name>
         <gender/>
         <hashed_user_id>6d742ec26a1593112bba689034cab50d9e2e2b5de9a937a9f4ec034681865ba8</hashed_user_id>
         <home_phone/>
@@ -35,7 +35,7 @@
         <last_login/>
         <last_login_device/>
         <last_login_time/>
-        <last_name>Davis</last_name>
+        <last_name>Mcfly</last_name>
         <last_password/>
         <ldap_server/>
         <location/>
@@ -43,7 +43,7 @@
         <manager/>
         <middle_name/>
         <mobile_phone>88762309</mobile_phone>
-        <name>John Davis</name>
+        <name>Marty Mcfly</name>
         <notification>2</notification>
         <number>EMP0001027</number>
         <password_needs_reset>false</password_needs_reset>
@@ -63,13 +63,13 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ef241a75937331105d1e7b732bba102c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-18 15:29:51</sys_updated_on>
+        <sys_updated_on>2024-02-15 04:29:59</sys_updated_on>
         <time_format/>
         <time_zone/>
         <title/>
-        <user_name>John.Davis</user_name>
+        <user_name>CR0115</user_name>
         <user_password/>
         <vip>false</vip>
         <web_service_access_only>false</web_service_access_only>
@@ -81,14 +81,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-01-29 15:32:32</sys_created_on>
         <sys_id>c28ef2d9934002105d1e7b732bba1070</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>John Davis</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Marty Mcfly</sys_name>
         <sys_package display_value="Corporate Gifting" source="x_1083671_corpgift">a2caad21933331105d1e7b732bba10e6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</sys_scope>
         <sys_update_name>sys_metadata_link_c28ef2d9934002105d1e7b732bba1070</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-29 15:32:32</sys_updated_on>
+        <sys_updated_on>2024-02-16 22:11:52</sys_updated_on>
         <tablename>x_1083671_corpgift_employee</tablename>
     </sys_metadata_link>
 </record_update>
