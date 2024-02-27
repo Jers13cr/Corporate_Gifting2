@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1083671_corpgift.Approvals_Corpgift</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>Approvals_Corpgift</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 20:51:57</sys_created_on>
+        <sys_id>70e0901893e402106096b5edfaba10d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1083671_corpgift.Approvals_Corpgift</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1083671_corpgift">a2caad21933331105d1e7b732bba10e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</sys_scope>
+        <sys_update_name>sys_user_role_70e0901893e402106096b5edfaba10d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 20:51:57</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</application>
+        <file_path/>
+        <instance_id>390ed29d1bdef95cc8432f8dee4bcb15</instance_id>
+        <instance_name>dev202542</instance_name>
+        <name>sys_user_role_70e0901893e402106096b5edfaba10d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1083671_corpgift.Approvals_Corpgift</name><scoped_admin>false</scoped_admin><suffix>Approvals_Corpgift</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-19 20:51:57</sys_created_on><sys_id>70e0901893e402106096b5edfaba10d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1083671_corpgift.Approvals_Corpgift</sys_name><sys_package display_value="Corporate Gifting" source="x_1083671_corpgift">a2caad21933331105d1e7b732bba10e6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</sys_scope><sys_update_name>sys_user_role_70e0901893e402106096b5edfaba10d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-19 20:51:57</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-833860529</payload_hash>
+        <record_name>x_1083671_corpgift.Approvals_Corpgift</record_name>
+        <reverted_from/>
+        <source>3284ccfe939c02106096b5edfaba107f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-19 20:51:57</sys_created_on>
+        <sys_id>7501541893e402106096b5edfaba10d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18dc323c3ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-19 20:51:57</sys_updated_on>
+        <type>Role</type>
+        <update_guid>790154185fe40210de4ba48051dbe4d4</update_guid>
+        <update_guid_history>790154185fe40210de4ba48051dbe4d4:-833860529</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1083671_corpgift.Approvals_Corpgift">3c9f592893a402106096b5edfaba101e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 21:13:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>0bd79c0c937e460487455d3eba4dfa69</sys_id>
+        <sys_metadata>70e0901893e402106096b5edfaba10d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1083671_corpgift.Approvals_Corpgift</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1083671_corpgift">a2caad21933331105d1e7b732bba10e6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">a2caad21933331105d1e7b732bba10e6</sys_scope>
+        <sys_scope_delete display_value="">07b107d422b84fa68145a20133762d04</sys_scope_delete>
+        <sys_update_name>sys_user_role_70e0901893e402106096b5edfaba10d0</sys_update_name>
+        <sys_update_version display_value="sys_user_role_70e0901893e402106096b5edfaba10d0">7501541893e402106096b5edfaba10d5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 21:13:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
